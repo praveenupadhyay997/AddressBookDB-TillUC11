@@ -11,3 +11,4 @@ create table addressBook_Table
  zip bigint not null,
  phoneNumber bigint not null,
  emailId varchar(50) not null);
+ select * from addressBook_Table;
